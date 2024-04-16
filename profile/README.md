@@ -1,7 +1,7 @@
 ## Welcome to Google Checks 👋
 
-![Checks logo](./checks_logo_dark.png#gh-dark-mode-only)
-![Chceks logo](./checks_logo_light.png#gh-light-mode-only)
+![Checks logo](https://raw.githubusercontent.com/google-checks/.github/main/profile/checks_logo_dark.png#gh-dark-mode-only)
+![Chceks logo](https://raw.githubusercontent.com/google-checks/.github/main/profile/checks_logo_light.png#gh-light-mode-only)
 
 Google Checks is a compliance platform for app developers that helps simplify the path to privacy compliance for development teams and the apps they’re building. Checks takes the guesswork out of building safer products by bringing privacy and engineering teams together through automated analysis.
 
